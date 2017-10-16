@@ -1,0 +1,9 @@
+{
+  "name": "yandex-money-nodeschool-network",
+  "version": "1.0.0",
+  "description": "Workshop about networks in Node.js",
+  "keywords": [],
+  "author": "Aleksandr Shoronov <ashoronov@yandex-team.ru>",
+  "license": "MIT",
+  "dependencies": {}
+}
